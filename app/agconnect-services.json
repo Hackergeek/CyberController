@@ -22,11 +22,8 @@
 	"client":{
 		"cp_id":"40086000137969662",
 		"product_id":"99536292102281017",
-		"client_id":"892783050088270464",
-		"client_secret":"7FB2D68EE46EAE80830151EB5C31C25FA33BB4F832844A0E1E34DD8F0396F1C8",
 		"project_id":"99536292102281017",
 		"app_id":"106239167",
-		"api_key":"DAEDAAkTKBJs8Iw4l1/hPpOzjK5mxpPhwXfMJkE2bthSIW1zTvI2jduxuka+oiOv5F46MEUfnO6BKWOIfBGKtOsFbrq9BbYGP3TTdQ==",
 		"package_name":"com.skyward.cybercontroller"
 	},
 	"oauth_client":{
